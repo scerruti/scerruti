@@ -15,7 +15,7 @@
 [15]: https://www.sdnhm.org/blog/blog_details/the-cerutti-mastodon-site-one-year-later/96/ ""
 [16]: http://www.e3civichigh.com/ ""
 
-<h2 align="left">Hi 👋! My name is Stephen Cerruti and I'm a Computer Science Learning Facilitator, from San Diego, California.</h2>
+<h2 align="left">Hi 👋! My name is Stephen Cerruti and I teach Computer Science in San Diego and Oceanside, California.</h2>
 
 ###
 
