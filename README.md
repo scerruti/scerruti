@@ -45,14 +45,3 @@ I am currently a Computer Science Learning Facilitator at e3 Civic High¹[12] an
   <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=1A91DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/scerruti/scerruti/output/snake.svg" alt="Snake animation" />
-
-###
-
-I am currently a Computer Science Learning Facilitator at e3 Civic High¹[12] and also teaching at MiraCosta College²[7]. In addition to my teaching roles, I am an At Large Representative of CSTA San Diego³[13]. You can find more about my work on my GitHub profile⁴[1] and connect with me on Mastodon⁵[3].
-
